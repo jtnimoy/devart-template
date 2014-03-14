@@ -1,12 +1,20 @@
 # Project Title
-Insert the name of your project
+>
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Joshua T. Nimoy, @jtnimoy
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+
+While looking into my dog's eyes with LEDs in my hat, I had a revelation that startled me with great unsettle. I trust that our universe is more than the mere 3D or 4D in which I may perceive it. I also find it easy to believe there is intelligence within, without and all around us that we do not (cannot?) acknowledge - sort of in that SETI sense, but more importantly in a way that is right here with us at all those existing dimensions. There exist plenty of powers higher than myself - both perceivable and not. I am convinced that a beautiful system containing my own very limited one is far beyond me and my understanding of it, my surroundings, and myself. All I see are mere puppetry and shadows in comparison to their whole. I'd like to re-create this feeling of surrender. I wonder how I could present an interactive simulation evoking the above feeling of greater dimensions interacting with our percievable dimensions. I have not yet chosen technologies. Perhaps an interactive simulation is not the appropriate thing and it should be generative stills, or a visualized neural network. However, I'm strongly considering Compute Engine and I aim for a visual output. For concept research, I'm looking at:
+
++ ![hypercubes](http://mathworld.wolfram.com/Hypercube.html) - 3d shadow of a 4D thing.
++ ![Angler Fish](http://en.wikipedia.org/wiki/Anglerfish) - the unexpected connection between 2 magnifications.
++ Flatland: A Romance of Many Dimensions - social satire book about ridigly divided classes
++ other 4th dimensions in literature and film
++ Theory of relativity
++ ![evolutionary computation](http://en.wikipedia.org/wiki/Evolutionary_computation)
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
